@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ClibICA",
+        "repositoryURL": "https://github.com/t0rn/ClibICA.git",
+        "state": {
+          "branch": null,
+          "revision": "46a1dcc907f81e205b29baffa600891d4da1cead",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
